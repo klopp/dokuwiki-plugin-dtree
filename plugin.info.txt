@@ -1,0 +1,7 @@
+base dtree
+author Vsevolod Lutovinov
+email klopp@yandex.ru
+date 2014-07-08
+name DTree plugin
+desc Use dhtmlxTree tree (http://dhtmlx.com/docs/products/dhtmlxTree/) to list pages and namespaces
+url https://www.dokuwiki.org/plugin:dtree
