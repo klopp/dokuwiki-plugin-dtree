@@ -1,7 +1,7 @@
 <?php
 
-$conf['head'] = 'start';
-$conf['tail'] = 'wiki';
+$conf['head'] = '';
+$conf['tail'] = '';
 $conf['xns'] = '';
 $conf['xpage'] = '';
 $conf['class'] = '';
