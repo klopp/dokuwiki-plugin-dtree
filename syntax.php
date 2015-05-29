@@ -228,10 +228,9 @@ class syntax_plugin_dtree extends DokuWiki_Syntax_Plugin
             return true;
         }
         
-        $this->_plog( print_r( $data, 1 ) );
-        
-        $treerand = $data['idx'];
-        $this->cidx = $data['idx'];
+//        $treerand = $data['idx'];
+//        $this->cidx = $data['idx'];
+        $treerand = $this->cidx = mt_rand( 1, 9999 );
         
         $this->head = array();
         $idx = 999;
